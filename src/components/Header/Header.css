@@ -1,0 +1,9 @@
+.ant-layout-header {
+  align-items: center;
+  background: #fff;
+  box-shadow: 0 0.125rem 0.5rem rgb(0 0 0 / 15%);
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+}

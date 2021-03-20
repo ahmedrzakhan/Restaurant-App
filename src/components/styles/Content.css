@@ -1,0 +1,13 @@
+.ant-layout-content {
+  margin: 1rem 0;
+}
+
+.ant-card-type-inner .ant-card-head-title {
+  font-size: 16px;
+  padding: 12px 0;
+}
+
+.ant-select-focused:not(.ant-select-disabled).ant-select:not(.ant-select-customize-input)
+  .ant-select-selector {
+  border-color: #008c38;
+}
